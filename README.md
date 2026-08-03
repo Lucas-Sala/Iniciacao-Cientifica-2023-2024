@@ -1,4 +1,4 @@
-# Avanços em Matemática: Introdução a Equação de Navier-Stokes
+# Avanços em Matemática Aplicada: Introdução a Equação de Navier-Stokes
 
 Projeto de Iniciação Científica realizado em 2023/2024 com bolsa de pesquisa FAPES, sob orientação do Professor Doutor Fernando Pereira Paulucio Reis.
 
