@@ -1,6 +1,6 @@
 # Avanços em Matemática Aplicada: Introdução a Equação de Navier-Stokes
 
-Projeto de Iniciação Científica realizado em 2023/2024 com bolsa de pesquisa FAPES, sob orientação do Professor Doutor Fernando Pereira Paulucio Reis.
+Projeto de Iniciação Científica realizado em 2023/2024 com bolsa de pesquisa FAPES, sob orientação do Professor Doutor Fernando Pereira Paulucio Reis, pela Universidade Federal do Espírito Santo - UFES.
 
 Destaca-se do projeto de iniciação científica:
 - Desenvolvimento de pesquisa voltada à modelagem matemática de fluidos. 
